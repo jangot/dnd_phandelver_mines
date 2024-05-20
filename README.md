@@ -11,7 +11,7 @@
 * [Фандалин описание](./fandalin-description.md)
 
 ## Общее
-* [История братьев Роксикера](./Roksiker-brothers.md)
+* [История братьев Роксикера](characters/Roksiker-brothers.md)
 * [Важные моменты](./important.md)
 * [Все организации и группировки](./organisations.md)
 * [Сокровища](./hidden-treasures.md)
