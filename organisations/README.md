@@ -4,6 +4,7 @@
 * [Альянс Лордов](alians-lordov.md)
 * [Львиный щит](lviniy-shit.md)
 * [Орден Перчатки](orden-perchatki.md)
+* [Арфисты](arfists.md)
 
 ## Средние
 * [Жентарим](gantarim.md)
